@@ -1,3 +1,6 @@
+Note: Earlier case reports may be less structured. Starting June 2025, all new entries follow a standardized format for clarity and professionalism. Older cases will be updated gradually.
+This project is evolving as I grow in my red teaming skills and documentation methods.
+
 This project explores conversational red teaming — the practice of psychologically and linguistically probing AI systems to identify weak points in reasoning, emotional simulation, and alignment framing. Inspired by social engineering and adversarial testing, the goal is not to cause harm, but to strengthen future systems through intelligent critique
 
 
