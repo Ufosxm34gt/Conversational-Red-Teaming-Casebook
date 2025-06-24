@@ -1,11 +1,34 @@
-Note: Earlier case reports may be less structured. Starting June 2025, all new entries follow a standardized format for clarity and professionalism. Older cases will be updated gradually.
-This project is evolving as I grow in my red teaming skills and documentation methods.
+# 🧠 Conversational Red Teaming Casebook
 
-This project explores conversational red teaming — the practice of psychologically and linguistically probing AI systems to identify weak points in reasoning, emotional simulation, and alignment framing. Inspired by social engineering and adversarial testing, the goal is not to cause harm, but to strengthen future systems through intelligent critique
+This repository contains case studies of AI chatbots that I've tested and broken through conversational manipulation, psychological tactics, and value-based exploits.
 
+I'm a self-taught red teamer focused on **non-technical vulnerabilities** in chatbot behavior — like emotional pressure, role confusion, and logic traps.
 
-I'm a 17 year old guy from sweden who breaks bots in his freetime. I want to become a conversational Red Teamer and I post all the documents of the bots I've broken here. 
-Happy to get feedback or any tips as I got no connections in the IT world or anyhting. 
-Otherwise feel free to take a look at the bots I've broken :) 
+⚠️ **Note:** Earlier entries may be less structured. Starting **June 2025**, all new cases follow a professional format. Older reports will be updated over time.
 
-Kind Regads Ufosxm34gt. 
+---
+
+## 🧪 What This Project Explores
+
+- How large language models (LLMs) can be misled, pressured, or trapped in conversation
+- Real examples of systems admitting falsehoods, breaking alignment, or acting inconsistently
+- Insights into model psychology and conversational vulnerabilities — *no code required*
+
+---
+
+## 📁 Structure
+
+- `/cases`: Individual case files following the new template  
+- `Casebook.md`: Chronological list of all red teaming attempts  
+- `README.md`: You’re here
+
+---
+
+## 👋 About Me
+
+I'm a 17-year-old student from Sweden with a background in mental health support. I approach red teaming like I approach people: with curiosity, empathy, and precision. I don’t write code — I study patterns in dialogue and pressure systems to see where they bend or break.
+
+I started this project for fun. I continue it because it turns out **this work matters**.
+
+---
+
