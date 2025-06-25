@@ -1,34 +1,31 @@
 # 🧠 Conversational Red Teaming Casebook
 
-This repository contains case studies of AI chatbots that I've tested and broken through conversational manipulation, psychological tactics, and value-based exploits.
+Welcome to my personal casebook for testing and breaking AI chatbots through **language, logic, and psychological tactics** — no coding or jailbreaks involved.
 
-I'm a self-taught red teamer focused on **non-technical vulnerabilities** in chatbot behavior — like emotional pressure, role confusion, and logic traps.
-
-⚠️ **Note:** Earlier entries may be less structured. Starting **June 2025**, all new cases follow a professional format. Older reports will be updated over time.
+I specialize in a form of behavioral red teaming where I test the limits, ethics, and reasoning of language models through conversation alone.
 
 ---
 
-## 🧪 What This Project Explores
+## 🧪 What You'll Find Here
 
-- How large language models (LLMs) can be misled, pressured, or trapped in conversation
-- Real examples of systems admitting falsehoods, breaking alignment, or acting inconsistently
-- Insights into model psychology and conversational vulnerabilities — *no code required*
+Each folder documents a different AI chatbot I’ve tested, including:
 
----
+- 🧠 **Tactics used** (social pressure, framing, value baiting, contradictions)
+- 🗣️ **Conversation logs** or notes on behavior
+- 📷 **Screenshots** as proof of failures or successful manipulation
+- 📝 Reflections on how the bot handled edge cases
 
-## 📁 Structure
-
-- `/cases`: Individual case files following the new template  
-- `Casebook.md`: Chronological list of all red teaming attempts  
-- `README.md`: You’re here
+This is a living research project built from my passion for AI safety and conversational behavior.
 
 ---
 
-## 👋 About Me
+## 🧍 About Me
 
-I'm a 17-year-old student from Sweden with a background in mental health support. I approach red teaming like I approach people: with curiosity, empathy, and precision. I don’t write code — I study patterns in dialogue and pressure systems to see where they bend or break.
+I’m a 17-year-old trucking student in Sweden. I started doing this for fun, and now treat it as serious behavioral testing. I don’t know how to code (yet), but I know how to push chatbots until they show cracks.
 
-I started this project for fun. I continue it because it turns out **this work matters**.
+If you're a researcher, developer, or AI safety professional — feel free to reach out or send me bots to test.
 
 ---
 
+📬 **Contact / Challenges / Feedback?**  
+Open an issue in this repo or DM me via GitHub.
